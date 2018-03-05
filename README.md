@@ -5,6 +5,9 @@ on stdin and POSTing them to the
 [_bulk_docs](http://docs.couchdb.org/en/stable/api/database/bulk-api.html#db-bulk-docs) 
 endpoint of a CouchDB server.
 
+[![Build
+Status](https://travis-ci.org/jo/couchdb-bulk.svg?branch=master)](https://travis-ci.org/jo/couchdb-bulk)
+
 ## Installation
 
 ```sh
