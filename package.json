@@ -30,8 +30,8 @@
     "semantic-release": "^12.4.1"
   },
   "dependencies": {
-    "commander": "^2.14.1",
     "event-stream": "^3.3.4",
+    "minimist": "^1.2.0",
     "request": "^2.83.0"
   },
   "files": [
