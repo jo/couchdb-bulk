@@ -5,7 +5,6 @@ const es = require('event-stream')
 const minimist = require('minimist')
 
 const api = require('.')
-const pkg = require('./package.json')
 
 const options = minimist(process.argv.slice(2))
 
